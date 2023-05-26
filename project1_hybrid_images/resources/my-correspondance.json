@@ -1,0 +1,32 @@
+{
+  "first_image": "C:/Yuchen/WCM/Courses/2023Spring/CS5670/Project/project1_hybrid_images-kevinsunofficial/left.jpg",
+  "second_image": "C:/Yuchen/WCM/Courses/2023Spring/CS5670/Project/project1_hybrid_images-kevinsunofficial/right.jpg",
+  "first_image_points": [
+    [
+      125.0,
+      95.0
+    ],
+    [
+      130.0,
+      138.0
+    ],
+    [
+      170.0,
+      114.0
+    ]
+  ],
+  "second_image_points": [
+    [
+      178.0,
+      120.0
+    ],
+    [
+      198.0,
+      173.0
+    ],
+    [
+      245.0,
+      127.0
+    ]
+  ]
+}
